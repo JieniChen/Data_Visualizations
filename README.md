@@ -1,7 +1,7 @@
 # Data_Visualizations
 This repository recorded all my interesting data Visualizations and Explorations 
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents** 
 
 - [Data_Visualizations](#)
 	- [Frequency histogram Plot for Over 10k cloumns](#)
