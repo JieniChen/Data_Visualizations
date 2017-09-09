@@ -1,7 +1,5 @@
-
-# coding: utf-8
-
-# In[10]:
+#Author:Jieni Chen
+#This is a code for histogram with Seaborn
 
 import pandas as pd
 import numpy as np
