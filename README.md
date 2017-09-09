@@ -5,6 +5,8 @@ This repository recorded all my interesting data Visualizations and Explorations
 
 Using Python package seaborn
 
-![alt text](https://github.com/JieniChen/Data_Visualizations/blob/master/PlantMachine.png)
+This data has been pre-cleaned by grouping the date and the EquimentID to calculate the frequency of Equiments
 
-see code [here](https://github.com/JieniChen/Data_Visualizations/blob/master/PlantMachine.py)
+![alt text](https://github.com/JieniChen/Data_Visualizations/blob/master/Histogram%20with%20Big%20data/PlantMachine.png)
+
+see code [here](https://github.com/JieniChen/Data_Visualizations/blob/master/Histogram%20with%20Big%20data/PlantMachine.ipynb)
