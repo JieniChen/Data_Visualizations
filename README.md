@@ -33,5 +33,5 @@ Plot the Score Distributions
 ![alt text](https://github.com/JieniChen/Data_Visualizations/blob/master/SurveyData%20Exploration%20and%20Analysis/Distribution2.ong.png)
 ![alt text](https://github.com/JieniChen/Data_Visualizations/blob/master/SurveyData%20Exploration%20and%20Analysis/Distribution3.ong.png)
 
-
+see full plot and code [here](https://github.com/JieniChen/Data_Visualizations/blob/master/SurveyData%20Exploration%20and%20Analysis/FeatureDistribution.ipynb)
 
