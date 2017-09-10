@@ -1,3 +1,9 @@
+**Table of Contents**  
+
+- [Data_Visualizations](#)
+- [Frequency Histogram Plot for Over 10k cloumns](#)
+- [SurveyData Exploration using Heatmap and Distribution Plot](#)
+
 # Data_Visualizations
 Data visualization is a general term that describes any effort to help people understand the significance of data by placing it in a visual context. 
 
